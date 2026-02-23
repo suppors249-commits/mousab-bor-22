@@ -1,1 +1,3 @@
+Remove-Item -Force package-lock.jsonnode_modules
+node_modules
 node_modules
